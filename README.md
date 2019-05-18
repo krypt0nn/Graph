@@ -105,7 +105,7 @@ $graph = (new Graph)->buildByVectorsList ([
 print_r ($graph->findCycles ());
 ```
 
-> Граф из примера выше: <br><br>
+> Граф из примера выше:
 <img src="https://i.ibb.co/qgH2TKY/Graph-2.png" alt="Граф из примера выше">
 
 Ну, как-то так
